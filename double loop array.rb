@@ -18,3 +18,13 @@ print array[2][2]
 print array[0][2]
 print array[1][1]
 print array[2][0]
+
+puts
+
+10.times do |x|
+  print "Hello"
+  x.times do
+    print "!"
+  end
+  puts
+end
