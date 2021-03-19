@@ -11,6 +11,7 @@ x = 0.05
   print "|\r"
 end
 
+
 def mult
   5.times do |i|
     number = rand (1..5)
