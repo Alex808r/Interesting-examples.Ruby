@@ -9,3 +9,12 @@ array = [
     print array[x][y]
   end
 end
+
+array = [['a', 'b', 'c'], ['d', 'e', 'f'], ['g', 'h', 'i']]
+print array[0][0]
+print array[1][1]
+print array[2][2]
+
+print array[0][2]
+print array[1][1]
+print array[2][0]
