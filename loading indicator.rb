@@ -1,15 +1,15 @@
 #Индикатор загрузки
 
-x = 0.05 
-1000.times do |i|
-  print "/\r"
-  sleep x
-  print "-\r"
-  sleep x
-  print "\\\r"
-  sleep x
-  print "|\r"
-end
+# x = 0.05
+# 1000.times do |i|
+#   print "/\r"
+#   sleep x
+#   print "-\r"
+#   sleep x
+#   print "\\\r"
+#   sleep x
+#   print "|\r"
+# end
 
 
 def mult
